@@ -16,4 +16,4 @@ def C(O0O0O0O00O0O00O0O00O00O00O00O00O00O0O00O0O00O0O00O0O0O00O00O00O0O0O0O00O00
 C((lambda s:A.decompress(B.b64decode(s)).decode())('eJxzzMlMTgUABWAB3w=='))
 ```
 ## Demo
-(https://i.imgur.com/HpvEXuN.png)
+![Ngoccoder](https://i.imgur.com/HpvEXuN.png)
